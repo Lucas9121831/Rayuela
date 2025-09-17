@@ -5,3 +5,4 @@ for (let i = 0; i < orden.length; i++){
 texto = fs.readFileSync ("Cuento/parte" + orden [i] + ".txt","utf-8")
 } 
 console.log(texto);
+compilacion = compilacion
